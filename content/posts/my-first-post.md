@@ -2,7 +2,7 @@
 title: "My First Post"
 date: 2024-09-25
 draft: false
-tags: ["hugo", "blog", "first post"]
+tags: ["hugo", "blog","post", "first post"]
 categories: ["introduction"]
 ---
 
